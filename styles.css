@@ -215,13 +215,13 @@ iframe {
 }
 
 
-.mediacontainer{
+.media-container{
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
     padding:15px 25px 15px 15px
 }
-.mediacontainer .mediacontent{
+.media-container .mediacontent{
     flex:10;
     padding: 10px;
 }
@@ -229,6 +229,7 @@ iframe {
 .mediacontent{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(131, 131, 131);
+    font-size: 20px;
  
 
  
